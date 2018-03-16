@@ -7,7 +7,7 @@
 #include "GLFW\glfw3.h"
 
 #include <vector>
-#include "Vertice.h"
+#include "Vertice.h" 
 #include "Shader.h"
 
 using namespace std;
